@@ -1,0 +1,38 @@
+# Ignorar tudo
+
+# Não ignorar o arquivo do projeto (.uproject)
+!Políupe/*.uproject
+
+# Não ignorar a pasta Config inteira
+!Políupe/Config/
+!Políupe/Config/**
+
+# Não ignorar a pasta Content
+!Políupe/Content/
+
+# Ignorar tudo dentro de Content
+Políupe/Content/**
+
+# Mas não ignorar arquivos soltos dentro de Content (não recursivo)
+!Políupe/Content/*
+
+# Ignorar arquivos temporários e gerados
+Políupe/Saved/
+Políupe/Intermediate/
+Políupe/DerivedDataCache/
+
+# Ignorar outros arquivos temporários comuns
+Políupe/.vscode/
+Políupe/*.sln
+Políupe/*.suo
+Políupe/*.user
+Políupe/*.userprefs
+Políupe/*.db
+Políupe/*.log
+Políupe/*.pdb
+Políupe/*.opendb
+Políupe/*.opensdf
+Políupe/*.sdf
+Políupe/*.tmp
+Políupe/*.VC.db
+Políupe/*.VC.opendb
