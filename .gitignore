@@ -1,5 +1,9 @@
 # Ignorar tudo
 
+
+
+Content.zip
+
 # Não ignorar o arquivo do projeto (.uproject)
 !Políupe/*.uproject
 
