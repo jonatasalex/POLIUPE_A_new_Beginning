@@ -6,3 +6,6 @@ Passos para editar o projeto:
 2. Baixar arquivos da pasta Content (assets) do seguinte link: https://drive.google.com/drive/folders/10fj1R-Jf2ADn-M35U5ny8iR6W2gjNr2I 
 3. Extrair dentro da pasta Content do projeto.
 4. Iniciar a Unreal 5.
+
+
+OBS: Agora, o projeto completo está no link do Drive: https://drive.google.com/drive/folders/10fj1R-Jf2ADn-M35U5ny8iR6W2gjNr2I
