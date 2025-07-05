@@ -11,4 +11,6 @@ Passos para editar o projeto:
 OBS: Agora, o projeto completo está no link do Drive: https://drive.google.com/drive/folders/10fj1R-Jf2ADn-M35U5ny8iR6W2gjNr2I
 
 Link para a a versão Empacotada mais recente: https://drive.google.com/drive/folders/1vfp6vvzEUXcX_a3_9FmhFoU-xjniDTJH
+
+
 Para iniciar o Game, é só entrar na pasta Windows e abrir o arquivo executável.
